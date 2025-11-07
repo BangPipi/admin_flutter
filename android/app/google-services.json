@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256440732365",
+    "firebase_url": "https://admin-flutter-19292-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "admin-flutter-19292",
+    "storage_bucket": "admin-flutter-19292.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256440732365:android:972981875e12b90af13784",
+        "android_client_info": {
+          "package_name": "com.example.admin_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcXSn93IdXPAxz_MDKYurK3sPl6o_lGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
